@@ -1,5 +1,7 @@
 # SEMANA-1-WEB - ALEJANDRO 
 ### Ejercicio del viernes de semana 1 de programación web icesi  
-[INSTAGRAM](C:\Users\H p\Desktop\PDF)
+
+
+![REFERENCIA](../../1x/HTML%20INSTAGRAM-100.jpg)
 
 ##GRACIAS! 
